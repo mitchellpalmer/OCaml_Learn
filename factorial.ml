@@ -6,5 +6,6 @@ let rec factorial n =
 ;;
 
 
-
-print_int (factorial 6)
+let v = read_int() in
+print_int (factorial v)
+;;

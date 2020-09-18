@@ -1,5 +1,4 @@
 /.merlin
 /.vscode
 /_build
-/binary_search.native
-/hello.native
+/*.native

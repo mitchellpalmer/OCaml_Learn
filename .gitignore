@@ -2,3 +2,5 @@
 /.vscode
 /_build
 /*.native
+/*/*.native
+/*/_build
